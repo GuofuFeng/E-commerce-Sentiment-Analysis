@@ -42,6 +42,14 @@ pip install -r requirements.txt
 # 执行主程序 (自动生成清洗数据、分析结果和图表)
 python src/main.py
 
+📊 关键成果
+词云分析
+![wordcloud](https://github.com/user-attachments/assets/bdbcf62e-b6ed-43ec-88a0-3d6a41d7b884)
+
+
+情感分布
+![sentiment_distribution](https://github.com/user-attachments/assets/073fc699-94f5-4a9e-b274-555b3fc9ce99)
+
 
 📝 注意事项
 中文字体配置：将 SimHei.ttf 字体文件放入项目根目录以正常显示中文
